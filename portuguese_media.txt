@@ -46,3 +46,9 @@ jornaldenegocios.pt##.qc-cmp-ui-content
 jornaldenegocios.pt###qcCmpUi
 jornaldenegocios.pt##.qc-cmp-showing.qc-cmp-ui-container
 jornaldenegocios.pt##body:style(overflow: visible !important;)
+
+cmjornal.pt##.qc-cmp-ui-content
+cmjornal.pt###qcCmpUi
+cmjornal.pt##.qc-cmp-showing.qc-cmp-ui-container
+cmjornal.pt##body:style(overflow: visible !important;)
+
