@@ -33,6 +33,8 @@ record.pt##.qc-cmp-ui-content
 record.pt###qcCmpUi
 record.pt##.qc-cmp-showing.qc-cmp-ui-container
 record.pt##body:style(overflow: visible !important;)
+record.pt##html:style(overflow: visible !important;)
+record.pt##div[id*=layer_gatting]
 
 sic.pt##.qc-cmp-ui-content
 sic.pt###qcCmpUi
