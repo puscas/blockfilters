@@ -4,6 +4,12 @@ iol.pt###qcCmpUi
 iol.pt##.qc-cmp-showing.qc-cmp-ui-container
 iol.pt##body:style(overflow: visible !important;)
 
+sapo.pt###wrapperContentGatingNonio
+sapo.pt##.qc-cmp-ui-content
+sapo.pt###qcCmpUi
+sapo.pt##.qc-cmp-showing.qc-cmp-ui-container
+sapo.pt##body:style(overflow: visible !important;)
+
 publico.pt##.qc-cmp-ui-content
 publico.pt###qcCmpUi
 publico.pt##.qc-cmp-showing.qc-cmp-ui-container
