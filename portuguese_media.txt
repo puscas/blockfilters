@@ -36,3 +36,8 @@ sic.pt##body:style(overflow: visible !important;)
 
 rtp.pt###rgpd
 rtp.pt##.rgpd_bg
+
+abola.pt##.qc-cmp-ui-content
+abola.pt###qcCmpUi
+abola.pt##.qc-cmp-showing.qc-cmp-ui-container
+abola.pt##body:style(overflow: visible !important;)
