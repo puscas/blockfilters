@@ -1,0 +1,38 @@
+iol.pt###wrapperContentGatingNonio
+iol.pt##.qc-cmp-ui-content
+iol.pt###qcCmpUi
+iol.pt##.qc-cmp-showing.qc-cmp-ui-container
+iol.pt##body:style(overflow: visible !important;)
+
+publico.pt##.qc-cmp-ui-content
+publico.pt###qcCmpUi
+publico.pt##.qc-cmp-showing.qc-cmp-ui-container
+publico.pt##body:style(overflow: visible !important;)
+
+expresso.pt##.qc-cmp-ui-content
+expresso.pt###qcCmpUi
+expresso.pt##.qc-cmp-showing.qc-cmp-ui-container
+expresso.pt##body:style(overflow: visible !important;)
+
+flash.pt##.qc-cmp-ui-content
+flash.pt###qcCmpUi
+flash.pt##.qc-cmp-showing.qc-cmp-ui-container
+flash.pt##body:style(overflow: visible !important;)
+
+vidas.pt##.qc-cmp-ui-content
+vidas.pt###qcCmpUi
+vidas.pt##.qc-cmp-showing.qc-cmp-ui-container
+vidas.pt##body:style(overflow: visible !important;)
+
+record.pt##.qc-cmp-ui-content
+record.pt###qcCmpUi
+record.pt##.qc-cmp-showing.qc-cmp-ui-container
+record.pt##body:style(overflow: visible !important;)
+
+sic.pt##.qc-cmp-ui-content
+sic.pt###qcCmpUi
+sic.pt##.qc-cmp-showing.qc-cmp-ui-container
+sic.pt##body:style(overflow: visible !important;)
+
+rtp.pt###rgpd
+rtp.pt##.rgpd_bg
