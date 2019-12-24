@@ -18,6 +18,7 @@ expresso.pt##.qc-cmp-ui-content
 expresso.pt###qcCmpUi
 expresso.pt##.qc-cmp-showing.qc-cmp-ui-container
 expresso.pt##body:style(overflow: visible !important;)
+expresso.pt##html:style(overflow: visible !important;)
 expresso.pt###imp-content-gate-root
 
 flash.pt##.qc-cmp-ui-content
