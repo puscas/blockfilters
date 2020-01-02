@@ -1,3 +1,182 @@
-*.pt##.qc-cmp-ui-content
-*.pt###qcCmpUi
-*.pt##.qc-cmp-showing.qc-cmp-ui-container
+
+!!
+!! Cofina
+!!
+aquelamaquina.pt###qcCmpUi
+aquelamaquina.pt##.qc-cmp-showing.qc-cmp-ui-container
+aquelamaquina.pt##.qc-cmp-ui-content
+aquelamaquina.pt##body:style(overflow: visible !important;)
+aquelamaquina.pt##html:style(overflow: visible !important;)
+aquelamaquina.pt#?#div[id^=layer_gatting]
+
+classificadoscm.pt###qcCmpUi
+classificadoscm.pt##.qc-cmp-showing.qc-cmp-ui-container
+classificadoscm.pt##.qc-cmp-ui-content
+classificadoscm.pt##body:style(overflow: visible !important;)
+classificadoscm.pt##html:style(overflow: visible !important;)
+classificadoscm.pt#?#div[id^=layer_gatting]
+
+cmjornal.pt###qcCmpUi
+cmjornal.pt##.qc-cmp-showing.qc-cmp-ui-container
+cmjornal.pt##.qc-cmp-ui-content
+cmjornal.pt##body:style(overflow: visible !important;)
+cmjornal.pt##html:style(overflow: visible !important;)
+cmjornal.pt#?#div[id^=layer_gatting]
+
+cm-tv.pt###qcCmpUi
+cm-tv.pt##.qc-cmp-showing.qc-cmp-ui-container
+cm-tv.pt##.qc-cmp-ui-content
+cm-tv.pt##body:style(overflow: visible !important;)
+cm-tv.pt##html:style(overflow: visible !important;)
+cm-tv.pt#?#div[id^=layer_gatting]
+
+destak.pt###qcCmpUi
+destak.pt##.qc-cmp-showing.qc-cmp-ui-container
+destak.pt##.qc-cmp-ui-content
+destak.pt##body:style(overflow: visible !important;)
+destak.pt##html:style(overflow: visible !important;)
+destak.pt#?#div[id^=layer_gatting]
+
+empregosonline.pt###qcCmpUi
+empregosonline.pt##.cookies
+empregosonline.pt##.qc-cmp-showing.qc-cmp-ui-container
+empregosonline.pt##.qc-cmp-ui-content
+empregosonline.pt##body:style(overflow: visible !important;)
+empregosonline.pt##html:style(overflow: visible !important;)
+empregosonline.pt#?#div[id^=layer_gatting]
+
+flash.pt###qcCmpUi
+flash.pt##.qc-cmp-showing.qc-cmp-ui-container
+flash.pt##.qc-cmp-ui-content
+flash.pt##body:style(overflow: visible !important;)
+flash.pt##html:style(overflow: visible !important;)
+flash.pt#?#div[id^=layer_gatting]
+
+jornaldenegocios.pt###qcCmpUi
+jornaldenegocios.pt##.qc-cmp-showing.qc-cmp-ui-container
+jornaldenegocios.pt##.qc-cmp-ui-content
+jornaldenegocios.pt##body:style(overflow: visible !important;)
+jornaldenegocios.pt##html:style(overflow: visible !important;)
+jornaldenegocios.pt#?#div[id^=layer_gatting]
+
+maxima.pt###qcCmpUi
+maxima.pt##.qc-cmp-showing.qc-cmp-ui-container
+maxima.pt##.qc-cmp-ui-content
+maxima.pt##body:style(overflow: visible !important;)
+maxima.pt##html:style(overflow: visible !important;)
+maxima.pt#?#div[id^=layer_gatting]
+
+record.pt###qcCmpUi
+record.pt##.qc-cmp-showing.qc-cmp-ui-container
+record.pt##.qc-cmp-ui-content
+record.pt##body:style(overflow: visible !important;)
+record.pt##html:style(overflow: visible !important;)
+record.pt#?#div[id^=layer_gatting]
+
+sabado.pt###qcCmpUi
+sabado.pt##.qc-cmp-showing.qc-cmp-ui-container
+sabado.pt##.qc-cmp-ui-content
+sabado.pt##body:style(overflow: visible !important;)
+sabado.pt##html:style(overflow: visible !important;)
+sabado.pt#?#div[id^=layer_gatting]
+
+xl.pt###qcCmpUi
+xl.pt##.qc-cmp-showing.qc-cmp-ui-container
+xl.pt##.qc-cmp-ui-content
+xl.pt##body:style(overflow: visible !important;)
+xl.pt##html:style(overflow: visible !important;)
+xl.pt#?#div[id^=layer_gatting]
+
+vidas.pt###qcCmpUi
+vidas.pt##.qc-cmp-showing.qc-cmp-ui-container
+vidas.pt##.qc-cmp-ui-content
+vidas.pt##body:style(overflow: visible !important;)
+vidas.pt##html:style(overflow: visible !important;)
+vidas.pt#?#div[id^=layer_gatting]
+
+!!
+!! Impresa
+!!
+blitz.pt###qcCmpUi
+blitz.pt##.qc-cmp-showing.qc-cmp-ui-container
+blitz.pt##.qc-cmp-ui-content
+blitz.pt##body:style(overflow: visible !important;)
+
+bpiexpressoimobiliario.pt##.inner
+
+expresso.pt##.qc-cmp-ui-content
+expresso.pt###qcCmpUi
+expresso.pt##.qc-cmp-showing.qc-cmp-ui-container
+expresso.pt##body:style(overflow: visible !important;)
+
+expressoemprego.pt###qcCmpUi
+expressoemprego.pt##.qc-cmp-showing.qc-cmp-ui-container
+expressoemprego.pt##.qc-cmp-ui-content
+expressoemprego.pt##body:style(overflow: visible !important;)
+
+famashow.pt###qcCmpUi
+famashow.pt##.qc-cmp-showing.qc-cmp-ui-container
+famashow.pt##.qc-cmp-ui-content
+famashow.pt##body:style(overflow: visible !important;)
+
+sic.pt###qcCmpUi
+sic.pt##.qc-cmp-showing.qc-cmp-ui-container
+sic.pt##.qc-cmp-ui-content
+sic.pt##body:style(overflow: visible !important;)
+
+tribunaexpresso.pt###qcCmpUi
+tribunaexpresso.pt##.qc-cmp-showing.qc-cmp-ui-container
+tribunaexpresso.pt##.qc-cmp-ui-content
+tribunaexpresso.pt##body:style(overflow: visible !important;)
+
+volantesic.pt###qcCmpUi
+volantesic.pt##.qc-cmp-showing.qc-cmp-ui-container
+volantesic.pt##.qc-cmp-ui-content
+volantesic.pt##body:style(overflow: visible !important;)
+
+!!
+!! Global Media
+!!
+jn.pt###qcCmpUi
+jn.pt##.qc-cmp-showing.qc-cmp-ui-container
+jn.pt##.qc-cmp-ui-content
+jn.pt##body:style(overflow: visible !important;)
+
+!!
+!! Media Capital
+!!
+iol.pt###qcCmpUi
+iol.pt##.qc-cmp-showing.qc-cmp-ui-container
+iol.pt##.qc-cmp-ui-content
+iol.pt##body:style(overflow: visible !important;)
+
+!!
+!! Others
+!! 
+abola.pt###qcCmpUi
+abola.pt##.qc-cmp-showing.qc-cmp-ui-container
+abola.pt##.qc-cmp-ui-content
+abola.pt##body:style(overflow: visible !important;)
+
+observador.pt###qcCmpUi
+observador.pt##.qc-cmp-showing.qc-cmp-ui-container
+observador.pt##.qc-cmp-ui-content
+observador.pt##body:style(overflow: visible !important;)
+
+publico.pt###qcCmpUi
+publico.pt##.qc-cmp-showing.qc-cmp-ui-container
+publico.pt##.qc-cmp-ui-content
+publico.pt##body:style(overflow: visible !important;)
+
+sapo.pt###qcCmpUi
+sapo.pt##.qc-cmp-showing.qc-cmp-ui-container
+sapo.pt##.qc-cmp-ui-content
+sapo.pt##.politicaCookies
+sapo.pt##body:style(overflow: visible !important;)
+
+!!
+!! RTP
+!!
+rtp.pt###rgpd
+rtp.pt###rtpprivacycontent
+rtp.pt##.rgpd_bg
