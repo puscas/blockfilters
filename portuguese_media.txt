@@ -1,1 +1,3 @@
-
+*.pt##.qc-cmp-ui-content
+*.pt###qcCmpUi
+*.pt##.qc-cmp-showing.qc-cmp-ui-container
