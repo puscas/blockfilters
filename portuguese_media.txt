@@ -95,6 +95,56 @@ vidas.pt##html:style(overflow: visible !important;)
 vidas.pt#?#div[id^=layer_gatting]
 
 !!
+!! Impala
+!!
+aproximaviagem.pt##.qc-cmp-ui-content
+aproximaviagem.pt###qcCmpUi
+aproximaviagem.pt##.qc-cmp-showing.qc-cmp-ui-container
+aproximaviagem.pt##body:style(overflow: visible !important;)
+
+automundo.pt##.qc-cmp-ui-content
+automundo.pt###qcCmpUi
+automundo.pt##.qc-cmp-showing.qc-cmp-ui-container
+automundo.pt##body:style(overflow: visible !important;)
+
+cozinharsemstress.pt##.qc-cmp-ui-content
+cozinharsemstress.pt###qcCmpUi
+cozinharsemstress.pt##.qc-cmp-showing.qc-cmp-ui-container
+cozinharsemstress.pt##body:style(overflow: visible !important;)
+
+crescercontigo.pt##.qc-cmp-ui-content
+crescercontigo.pt###qcCmpUi
+crescercontigo.pt##.qc-cmp-showing.qc-cmp-ui-container
+crescercontigo.pt##body:style(overflow: visible !important;)
+
+maria.pt##.qc-cmp-ui-content
+maria.pt###qcCmpUi
+maria.pt##.qc-cmp-showing.qc-cmp-ui-container
+maria.pt##body:style(overflow: visible !important;)
+
+novagente.pt##.qc-cmp-ui-content
+novagente.pt###qcCmpUi
+novagente.pt##.qc-cmp-showing.qc-cmp-ui-container
+novagente.pt##body:style(overflow: visible !important;)
+
+paraeles.pt##.qc-cmp-ui-content
+paraeles.pt###qcCmpUi
+paraeles.pt##.qc-cmp-showing.qc-cmp-ui-container
+paraeles.pt##body:style(overflow: visible !important;)
+
+tv7dias.pt##.qc-cmp-ui-content
+tv7dias.pt###qcCmpUi
+tv7dias.pt##.qc-cmp-showing.qc-cmp-ui-container
+tv7dias.pt##body:style(overflow: visible !important;)
+
+vip.pt##.qc-cmp-ui-content
+vip.pt###qcCmpUi
+vip.pt##.qc-cmp-showing.qc-cmp-ui-container
+vip.pt##html:style(overflow: visible !important;)
+vip.pt##body:style(overflow: visible !important;)
+vip.pt###overlay
+
+!!
 !! Impresa
 !!
 blitz.pt###qcCmpUi
