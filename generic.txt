@@ -1,0 +1,9 @@
+pt,com,uk###qcCmpUi
+pt,com,uk##.cookies
+pt,com,uk##.qc-cmp-showing.qc-cmp-ui-container
+pt,com,uk##.qc-cmp-ui-content
+pt,com,uk##body:style(overflow: visible !important;)
+pt,com,uk##html:style(overflow: visible !important;)
+pt,com,uk#?#div[id^=layer_gatting]
+pt,com,uk##.sgpb-popup-dialog-main-div-wrapper
+pt,com,uk##.sgpb-popup-overlay
