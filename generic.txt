@@ -1,9 +1,9 @@
-pt,com,uk###qcCmpUi
-pt,com,uk##.cookies
-pt,com,uk##.qc-cmp-showing.qc-cmp-ui-container
-pt,com,uk##.qc-cmp-ui-content
-pt,com,uk##body:style(overflow: visible !important;)
-pt,com,uk##html:style(overflow: visible !important;)
-pt,com,uk#?#div[id^=layer_gatting]
-pt,com,uk##.sgpb-popup-dialog-main-div-wrapper
-pt,com,uk##.sgpb-popup-overlay
+pt,com,uk,us###qcCmpUi
+pt,com,uk,us##.cookies
+pt,com,uk,us##.qc-cmp-showing.qc-cmp-ui-container
+pt,com,uk,us##.qc-cmp-ui-content
+pt,com,uk,us##body:style(overflow: visible !important;)
+pt,com,uk,us##html:style(overflow: visible !important;)
+pt,com,uk,us#?#div[id^=layer_gatting]
+pt,com,uk,us##.sgpb-popup-dialog-main-div-wrapper
+pt,com,uk,us##.sgpb-popup-overlay
